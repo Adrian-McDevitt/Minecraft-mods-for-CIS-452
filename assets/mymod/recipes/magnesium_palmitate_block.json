@@ -1,0 +1,26 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern" :
+	[
+		"MMM",
+		"MMM",
+		"MMM"
+	],
+	
+	"key" :
+	{
+		"M" :
+		
+		{
+			"item" : "mymod:magnesium_palmitate"
+		}
+		
+	},
+	
+	"result" :
+	{
+	"item" : "mymod:magnesium_palmitate_block"
+	}
+	
+}

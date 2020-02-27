@@ -1,0 +1,26 @@
+item.cheese.name=Cheese
+tile.cheese_block.name=Cheese_Block
+tile.chair.name=Chair
+item.cheese_cracker.name=Cheese_Cracker
+item.cracker.name=Cracker
+item.pop.name=Pop
+tile.pop_container.name=Pop_Container
+key.categories.mymod=CIS Demo Mod
+key.mymod.query=Query Block
+key.mymod.explode=Explode
+item.wand.name=Wand
+
+item.aluminium_palmitate.name=Aluminium_Palmitate
+item.magnesium_palmitate.name=Magnesium_Palmitate
+item.canister.name=Canister
+item.crude_oil.name=Crude_Oil
+item.empty_flamethrower.name=Empty_Flamethrower
+item.flamethrower.name=Flamethrower
+item.gasoline.name=Gasoline
+item.napalm.name=Napalm
+item.styrofoam.name=Styrofoam
+tile.aluminium_palmitate_block.name=Aluminium_Palmitate_Block
+tile.magnesium_palmitate_block.name=Magnesium_Palmitate_Block
+tile.napalm_block.name=Napalm_Block
+tile.styrofoam_block.name=Styrofoam_Block
+key.mymod.<3 the smell of napalm=<3 the smell of napalm

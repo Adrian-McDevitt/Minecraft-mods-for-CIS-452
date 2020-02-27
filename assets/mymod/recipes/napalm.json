@@ -1,0 +1,45 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern" :
+	[
+		"   ",
+		" G ",
+		" A "
+	],
+	
+	"key" :
+	{
+		"G" :
+		
+		{
+			"item" : "mymod:gasoline"
+		},
+		
+		
+		"A" :
+		[
+		{
+			"item" : "mymod:aluminium_palmitate"
+			
+		},
+		{
+			"item" : "mymod:magnesium_palmitate"
+			
+		},
+		{
+			"item" : "mymod:styrofoam"
+			
+		}
+		
+		]
+	},
+
+	
+	"result" :
+	
+	{
+		"item" : "mymod:napalm"
+	}	
+	
+}

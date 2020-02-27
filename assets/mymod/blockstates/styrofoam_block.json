@@ -1,0 +1,9 @@
+{
+	"variants" :
+	{
+		"normal":
+		{
+			"model" : "mymod:styrofoam_block"
+		}
+	}
+}

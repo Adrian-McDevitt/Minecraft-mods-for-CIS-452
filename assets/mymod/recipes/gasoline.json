@@ -1,0 +1,17 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	
+	"ingredients" :
+	[
+		{
+		"item" : "mymod:crude_oil"
+		}
+	],
+	
+	"result" :
+	
+	{
+		"item" : "mymod:gasoline"
+	}	
+	
+}

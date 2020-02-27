@@ -1,0 +1,9 @@
+{
+	"variants" :
+	{
+		"normal":
+		{
+			"model" : "mymod:magnesium_palmitate_block"
+		}
+	}
+}

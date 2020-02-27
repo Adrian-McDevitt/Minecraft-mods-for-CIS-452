@@ -1,0 +1,26 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern" :
+	[
+		"NNN",
+		"NNN",
+		"NNN"
+	],
+	
+	"key" :
+	{
+		"N" :
+		
+		{
+			"item" : "mymod:napalm"
+		}
+		
+	},
+	
+	"result" :
+	{
+	"item" : "mymod:napalm_block"
+	}
+	
+}

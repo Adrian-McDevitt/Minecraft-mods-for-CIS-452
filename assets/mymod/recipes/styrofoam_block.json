@@ -1,0 +1,26 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern" :
+	[
+		"SSS",
+		"SSS",
+		"SSS"
+	],
+	
+	"key" :
+	{
+		"S" :
+		
+		{
+			"item" : "mymod:styrofoam"
+		}
+		
+	},
+	
+	"result" :
+	{
+	"item" : "mymod:styrofoam_block"
+	}
+	
+}

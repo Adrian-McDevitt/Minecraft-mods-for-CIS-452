@@ -1,0 +1,26 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern" :
+	[
+		"AAA",
+		"AAA",
+		"AAA"
+	],
+	
+	"key" :
+	{
+		"A" :
+		
+		{
+			"item" : "mymod:aluminium_palmitate"
+		}
+		
+	},
+	
+	"result" :
+	{
+	"item" : "mymod:aluminium_palmitate_block"
+	}
+	
+}

@@ -1,0 +1,21 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	
+	"ingredients" :
+	[
+		{
+		"item" : "mymod:empty_flamethrower"
+		},
+		
+		{
+			"item" : "mymod:canister"
+		}
+	],
+	
+	"result" :
+	
+	{
+		"item" : "mymod:flamethrower"
+	}	
+	
+}

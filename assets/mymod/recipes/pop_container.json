@@ -1,0 +1,30 @@
+{
+"type" : "minecraft:crafting_shaped",
+	
+	"pattern" :
+	[
+		"AAA",
+		"PPP",
+		"PPP"
+	],
+	
+	"key" :
+	{
+		"A" :
+		
+		{
+			"item" : "minecraft:paper"
+		},
+		
+		"P" :
+		{
+			"item" : "mymod:pop"
+		}
+		
+		},
+		
+		"result" :
+	{
+	"item" : "mymod:pop_container"
+	}
+}

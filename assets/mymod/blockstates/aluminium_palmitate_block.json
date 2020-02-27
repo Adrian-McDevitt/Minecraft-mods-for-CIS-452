@@ -1,0 +1,9 @@
+{
+	"variants" :
+	{
+		"normal":
+		{
+			"model" : "mymod:aluminium_palmitate_block"
+		}
+	}
+}
